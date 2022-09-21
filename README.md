@@ -49,8 +49,7 @@ You can click the Preview link to take a look at your changes.
 
  &nbsp;
  ---
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=krish-8001
-&theme=dark&fire=DD1A0D&stroke=DDDC13&currStreakNum=15DD1C&sideNums=4DDD18&sideLabels=1CDDD0)](https://git.io/streak-stats)
+[![GitHubStreak(http://githubreadmestreakstats.herokuapp.comuser=krish8001&theme=dark&fire=DD1A0D&stroke=DDDC13&currStreakNum=15DD1C&sideNums=4DDD18&sideLabels=1CDDD0)](https://git.io/streak-stats)
 
  &nbsp;
  
