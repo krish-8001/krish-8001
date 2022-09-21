@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @krish-8001
+
 
 
 <!---
@@ -38,19 +38,8 @@ You can click the Preview link to take a look at your changes.
 
 
 
- &nbsp;
----
 
- <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=krish-8001&show_icons=true&theme=vision-friendly-dark&locale=en" alt="krish" /></p>
 
  &nbsp;
  ---
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krish-8001&hide=JupyterNotebook&show_icons=true&langs_count=8&theme=tokyonight&locale=en&layout=compact" alt="krish" /></p>
 
- &nbsp;
- ---
-[![GitHubStreak(http://githubreadmestreakstats.herokuapp.comuser=krish8001&theme=dark&fire=DD1A0D&stroke=DDDC13&currStreakNum=15DD1C&sideNums=4DDD18&sideLabels=1CDDD0)](https://git.io/streak-stats)
-
- &nbsp;
- 
- ---
