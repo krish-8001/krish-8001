@@ -14,7 +14,6 @@ You can click the Preview link to take a look at your changes.
 **About Me:**
 
 - I’m Full Stack Web Developer (MERN/PERN).
-- I’m Self-Motivated and Passionate about Programming and Problem Solving.
 
  &nbsp;
 ---
